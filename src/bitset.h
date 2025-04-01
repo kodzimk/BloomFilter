@@ -5,6 +5,8 @@
 #define TYPE_AS_BIT(type) (BYTE_AS_BIT * sizeof(type))
 
 #include<stdint.h>
+#include<stdio.h>
+#include<math.h>
 #include<stddef.h>
 #include<stdbool.h>
 
