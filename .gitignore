@@ -362,3 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /main
+/BloomFilter.sln
+/BloomFilter.vcxproj
+/BloomFilter.vcxproj.filters
+/bloom
